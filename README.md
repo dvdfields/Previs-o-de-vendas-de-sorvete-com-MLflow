@@ -1,4 +1,4 @@
-# Previs-o-de-vendas-de-sorvete-com-MLflow
+# Previsao-de-vendas-de-sorvete-com-MLflow
 
 Objetivo
 O objetivo deste projeto é desenvolver um modelo de regressão preditiva que permita: 
