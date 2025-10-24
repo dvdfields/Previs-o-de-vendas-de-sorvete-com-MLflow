@@ -1,6 +1,7 @@
 # Previsao-de-vendas-de-sorvete-com-MLflow
 
-Objetivo
+Objetivo  
+
 O objetivo deste projeto é desenvolver um modelo de regressão preditiva que permita: 
 
 ✅ Treinar um modelo de Machine Learning para prever as vendas de sorvete com base na temperatura do dia.
